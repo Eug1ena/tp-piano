@@ -4,7 +4,7 @@ Garageband のミュージックタイピング (キーボードから鳴らせ�
 
 Python で動きます。
 
-![screenshot](./screenshot.png)
+<img src="./screenshot.png" width="700">
 
 ### 必要なもの
 
@@ -14,7 +14,7 @@ Python で動きます。
 
 ### 使用方法
 
-1. Garageband を開いて、好きな楽器を選ぶ。
+1. **Garageband を開いて、**好きな楽器を選ぶ。
 2. tp-piano の *main.py* を実行する。
 3. 出てきた小ウィンドウをアクティブにして、好きなキーを押すと音が鳴る。
 
